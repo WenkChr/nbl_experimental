@@ -1,15 +1,6 @@
-# NBL-CNB 
+# NBL experiemntal
 
-This repository contains all code associated with the National Building Layer (NBL). The NBL is intended to be a geographic representation of every building in 
-Canada with associated attributes. 
-
-The following components are in development here:
-
-- Address Point to Building Polygon matching
-- Building Polygon Cutting
-
-
-***Detailed documentation for this project is in development and will be made available shortly*** 
+This repository contains experiemtnal versions of the NBL code 
 
 
 
