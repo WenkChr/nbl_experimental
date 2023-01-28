@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/polygon_cutter" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
